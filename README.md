@@ -16,3 +16,5 @@ Has we programmer use text editor in daily life.So that why i have chosen this p
 
 ##############
 """THIS INTENTION BEHIND MAKING THIS PROJECT WAS TO CREATE A TEXT EDITOR THAT WOULD BE EASE TO EDIT AND WORK WITH.TO RECTIFY USER MISTAKES WHILE SAVING OR EDITING.IT CAN EASILY DETECT AND SHOWS WHETHER CURRENT WORKING FILE IS SAVE OR NOT.""" 
+
+Execute by tying first "javac notepad.java" then "java notepad" 
